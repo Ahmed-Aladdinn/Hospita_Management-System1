@@ -1,0 +1,48 @@
+
+
+.logo img
+{
+    height: 60px;
+    width:auto;
+}
+.artical
+{
+    width:500px;
+    height: 400px;
+    margin: 10px;
+    padding: 3px;
+    float: left;
+    
+}
+.sec1
+{
+    width: 450px;
+    height: 450px;
+    float:right;
+    margin: 10px;
+    padding: 3px;
+}
+.section1
+{
+   border:2px solid black;
+   margin: 10px;
+   padding: 10px;
+   border-radius: 25px 12px;
+}
+.section2
+{
+    border:2px solid black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 25px 12px;
+}
+.free
+{
+    height: 500px;
+}
+
+.footer{background-color: #221b1b;color: white;padding: 20px}
+
+.footer1 {color: aqua}
+span {color: #952929;font-weight:700px;font-size: 30px}
+.footer strong{color: aqua}

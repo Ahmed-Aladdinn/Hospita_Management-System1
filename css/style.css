@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+
+
+body{
+    font-family: 'Otomanopee One';
+}
+.container 
+{
+    margin-top: 50px;
+}
+.image {
+    width: 100%;
+    text-align: center;
+    overflow: hidden;
+    height: 300px;
+}
+
+.pic 
+{
+ 
+    text-align: center;
+}
+
